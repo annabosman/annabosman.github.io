@@ -27,7 +27,11 @@ Work experience
 * January 2014 - present: Lecturer
   * University of Pretoria, Pretoria, South Africa
   * Courses taught: 
-    * Introduction to Object-Oriented Programming
+    * Introduction to Procedural Programming (C)
+    * Introduction to Object-Oriented Programming (C++)
+    * Algorithms and Data Structures (Java)
+    * Artificial Intelligence (Honours course with a heavy focus on neural networks and deep learning)
+    * Introduction to Machine Learning (Masters course)
   
 Publications
 ======
