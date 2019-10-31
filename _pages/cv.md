@@ -20,10 +20,14 @@ Work experience
 ======
 * October 2006 - December 2008: Junior Programmer
   * Department of Biochemistry, University of Pretoria, Pretoria, South Africa
+  * Developed a web-based genome visualizer based on existing Python code
 * June 2012 - October 2013: Junior Researcher 
   * Joint Institute for Nuclear Research, Dubna, Russia
+  * Worked on neural network applications to chaotic time series analysis
 * January 2014 - present: Lecturer
   * University of Pretoria, Pretoria, South Africa
+  * Courses taught: 
+    * Introduction to Object-Oriented Programming
   
 Publications
 ======
