@@ -12,4 +12,4 @@ I am a lecturer of Computer Science at the University of Pretoria. I have comple
 
 My current research interests lie in neural networks, swarm intelligence, fitness landscape analysis, time-series analysis, high-dimensional optimisation, and deep learning. I am interested in developing a better fundamental understanding of how and why neural networks work. I enjoy working on hybrid approaches that combine different computational intelligence paradigms. I also love seeing machine learning in action, thus I am always keen to try my hand at real-life applications. In particular, I dabble in computer vision and satellite image analysis using convolutional neural networks.
 
-If you are interested in postgraduate studies under my supervision, you may contact me via e-mail: annar_AT_cs.up.ac.za. You are welcome to propose your own topic, so long as it falls under the broad category of machine learning/computational intelligence research.
+If you are interested in postgraduate studies under my supervision, you may contact me via e-mail: annar_AT_cs.up.ac.za. You are welcome to propose your own topic, so long as it matches some of my research interests as listed above.
