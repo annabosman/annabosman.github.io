@@ -24,7 +24,7 @@ Work experience
 * June 2012 - October 2013: Junior Researcher 
   * Joint Institute for Nuclear Research, Dubna, Russia
   * Worked on neural network applications to chaotic time series analysis
-* January 2014 - December 2020: Lecturer, January 2021 - present: Senior Lecturer
+* January 2014 - December 2020: Lecturer; January 2021 - present: Senior Lecturer
   * University of Pretoria, Pretoria, South Africa
   * Courses taught: 
     * Introduction to Procedural Programming (C)
