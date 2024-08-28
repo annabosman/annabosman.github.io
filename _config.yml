@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Anna S. Bosman"
   avatar           : "scan.jpg"
-  bio              : "Researcher and lecturer at the University of Pretoria, South Africa. Research interests: neural networks, fitness landscape analysis, deep learning, population-based algorithms, nature-inspired computing."
+  bio              : "Researcher and lecturer at the University of Pretoria, South Africa. Research interests: deep neural networks, loss landscape analysis, knowledge distillation, energy-efficient models, meta-learning, computer vision."
   location         : "Pretoria, South Africa"
   employer         : University of Pretoria
   googlescholar    : "https://scholar.google.com/citations?user=nGQ-E9kAAAAJ"
-  email            : "annar@cs.up.ac.za"
+  email            : "anna.bosman@up.ac.za"
   researchgate     : "https://www.researchgate.net/profile/Anna_Bosman2"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/annaearwen/"
   orcid            : "https://orcid.org/0000-0003-3546-1467"
   pinterest        :
   soundcloud       :
